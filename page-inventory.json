@@ -1,0 +1,132 @@
+[
+  {
+    "route": "/products/",
+    "source": "https://www.princeartpackages.com/products",
+    "title": "Pharmaceutical Secondary Packaging Products | Prince Art Packages"
+  },
+  {
+    "route": "/capabilities/",
+    "source": "https://www.princeartpackages.com/capabilities",
+    "title": "Manufacturing Capabilities & Production Capacity | Prince Art Packages"
+  },
+  {
+    "route": "/innovation/",
+    "source": "https://www.princeartpackages.com/innovation",
+    "title": "Innovation | Prince Art Packages"
+  },
+  {
+    "route": "/",
+    "source": "https://www.princeartpackages.com/",
+    "title": "Prince Art Packages \u2014 Pharmaceutical Secondary Packaging Manufacturer"
+  },
+  {
+    "route": "/about/",
+    "source": "https://www.princeartpackages.com/about",
+    "title": "About Prince Art Packages | Pharmaceutical Packaging Manufacturer"
+  },
+  {
+    "route": "/privacy/",
+    "source": "https://www.princeartpackages.com/privacy",
+    "title": "Privacy Policy | Prince Art Packages"
+  },
+  {
+    "route": "/contact/",
+    "source": "https://www.princeartpackages.com/contact",
+    "title": "Contact Prince Art Packages | Pharmaceutical Packaging"
+  },
+  {
+    "route": "/quality/",
+    "source": "https://www.princeartpackages.com/quality",
+    "title": "Quality Certifications & In-House Laboratory | Prince Art Packages"
+  },
+  {
+    "route": "/industries/",
+    "source": "https://www.princeartpackages.com/industries",
+    "title": "Industries We Serve | Pharma, Healthcare & Biologics Packaging"
+  },
+  {
+    "route": "/blog/",
+    "source": "https://www.princeartpackages.com/blog",
+    "title": "Pharmaceutical Packaging Insights & Technical Articles"
+  },
+  {
+    "route": "/terms/",
+    "source": "https://www.princeartpackages.com/terms",
+    "title": "Terms & Conditions | Prince Art Packages"
+  },
+  {
+    "route": "/products/printed-cartons/",
+    "source": "https://www.princeartpackages.com/product-detail?slug=printed-cartons",
+    "title": "Printed Cartons Specifications | Prince Art Packages"
+  },
+  {
+    "route": "/products/honeycomb-separators/",
+    "source": "https://www.princeartpackages.com/product-detail?slug=honeycomb-separators",
+    "title": "Honeycomb Separators Specifications | Prince Art Packages"
+  },
+  {
+    "route": "/products/printed-labels/",
+    "source": "https://www.princeartpackages.com/product-detail?slug=printed-labels",
+    "title": "Printed Labels Specifications | Prince Art Packages"
+  },
+  {
+    "route": "/products/leaf-inserts/",
+    "source": "https://www.princeartpackages.com/product-detail?slug=leaf-inserts",
+    "title": "Leaf-Inserts Specifications | Prince Art Packages"
+  },
+  {
+    "route": "/products/3d-engravix/",
+    "source": "https://www.princeartpackages.com/product-detail?slug=3d-engravix",
+    "title": "3D-ENGRAVIX\u2122 Specifications | Prince Art Packages"
+  },
+  {
+    "route": "/products/coldseal-blister-wallet/",
+    "source": "https://www.princeartpackages.com/product-detail?slug=coldseal-blister-wallet",
+    "title": "Cold-seal Wallet Specifications | Prince Art Packages"
+  },
+  {
+    "route": "/products/tamper-evident/",
+    "source": "https://www.princeartpackages.com/product-detail?slug=tamper-evident",
+    "title": "Tamper Evident Cartons & Labels Specifications | Prince Art Packages"
+  },
+  {
+    "route": "/products/pill-folders/",
+    "source": "https://www.princeartpackages.com/product-detail?slug=pill-folders",
+    "title": "Pill-Folders & Injection Wallets Specifications | Prince Art Packages"
+  },
+  {
+    "route": "/blog/eliminating-transit-breakage-glass-ampoules/",
+    "source": "https://www.princeartpackages.com/blog-post?slug=eliminating-transit-breakage-glass-ampoules",
+    "title": "Glass Ampoule Protection & Honeycomb Dividers | Prince Art Packages | Prince Art Packages"
+  },
+  {
+    "route": "/blog/iso-9001-cgmp-compliance/",
+    "source": "https://www.princeartpackages.com/blog-post?slug=iso-9001-cgmp-compliance",
+    "title": "ISO 9001:2015 & cGMP Compliance in Pharma Packaging | Prince Art Packages | Prince Art Packages"
+  },
+  {
+    "route": "/blog/small-diameter-vial-ampoule-labeling/",
+    "source": "https://www.princeartpackages.com/blog-post?slug=small-diameter-vial-ampoule-labeling",
+    "title": "Small Diameter Vial & Ampoule Labeling Engineering | Prince Art Packages | Prince Art Packages"
+  },
+  {
+    "route": "/blog/sustainable-coldseal-blister-wallets/",
+    "source": "https://www.princeartpackages.com/blog-post?slug=sustainable-coldseal-blister-wallets",
+    "title": "ColdSeal Blister Wallets: Sustainable Heat-Free Packaging | Prince Art Packages | Prince Art Packages"
+  },
+  {
+    "route": "/blog/anti-counterfeiting-innovations/",
+    "source": "https://www.princeartpackages.com/blog-post?slug=anti-counterfeiting-innovations",
+    "title": "Pharma Anti-Counterfeiting & 3D-Engravix\u2122 | Prince Art Packages | Prince Art Packages"
+  },
+  {
+    "route": "/blog/optimizing-prescribing-leaflets-pil/",
+    "source": "https://www.princeartpackages.com/blog-post?slug=optimizing-prescribing-leaflets-pil",
+    "title": "Prescribing Leaflets & Miniature Outserts Engineering | Prince Art Packages | Prince Art Packages"
+  },
+  {
+    "route": "/case-studies/",
+    "source": "https://www.princeartpackages.com/case-studies",
+    "title": "Case Studies & Manufacturing Results | Prince Art Packages"
+  }
+]
